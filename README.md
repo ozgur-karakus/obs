@@ -1,0 +1,2 @@
+# obs
+öğrenci bilgilendirme sistemi
